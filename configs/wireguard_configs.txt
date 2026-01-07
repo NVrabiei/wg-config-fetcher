@@ -15,3 +15,5 @@ wireguard://IFf6tVFwNnJ0VSvWKWs2oMFg7d4pBG76niK6cSvVmXs%3D@162.159.192.7:2408?ad
 wireguard://yPhoebvatJoNly8ZDrvDu0j6sNZvqlXRoIvbu9lA%2BUs%3D@162.159.192.6:4500?address=172.16.0.2%2F32&reserved=230%2C12%2C189&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#Anon8
 
 wireguard://COftyImRmznx5epZZQ75HEC56QwZ%2FBDhGSIDWxFs5E0%3D@162.159.192.2:2408?address=172.16.0.2%2F32&reserved=127%2C76%2C59&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#Anon9
+
+wireguard://SJHlgk%2FJVCXiQ8QlRlBvFcZS%2FfHd3AH8W9a86%2Fi0XXo%3D@162.159.192.2:4500?address=172.16.0.2%2F32&reserved=45%2C213%2C242&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#Anon10
